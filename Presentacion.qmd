@@ -1,6 +1,6 @@
 ---
 title: "Proyecto 613-C2"
-subtitle: "Fortalecimiento del Sistema Integrado de Estadísticas e Indicadores de la UNAL<br><br>Informe de Avance"
+subtitle: "Fortalecimiento del Sistema Integrado de Estadísticas e Indicadores de la UNAL<br><h6 style='color:rgb(255, 86, 44);'>INFORME DE AVANCE</h6><br>"
 author: "Oficina Nacional de Estadística <br>Dirección Nacional de Planeación y Estadística<br>Universidad Nacional de Colombia"
 format:
   onyxia-revealjs:
@@ -21,11 +21,26 @@ format:
 
 ![](Imagenes/QRPresentacion.png){fig-align="center" height="480"}
 
-## Objetivo General del Proyecto {.center}
+## Características del Proyecto {.center}
 
 <br>
 
+#### Ubicación en el Plan Global de Desarrollo PGD 2022-2024
+
+El proyecto 613-C2 [Fortalecimiento del Sistema Integrado de Estadísticas e Indicadores de la UNAL](https://bpun2022.unal.edu.co/proyectos-componentes/613-C2/ver), hace parte del proyecto madre [Fortalecimiento de la Planeación Institucional y la Gestión Financiera](https://bpun2022.unal.edu.co/proyectos-madres/613/ver).
+
+<br>
+
+#### Objetivo General
 Avanzar en la implementación del Plan Estadístico Institucional de la Universidad Nacional de Colombia.
+
+## Características del Proyecto {.center}
+<br>
+
+#### Indicadores
+
+- Porcentaje de Avance en la Implementación del Plan Estadístico Institucional (peso 90%).
+- Porcentaje de avance en la construcción de los lineamientos metodológicos que orienten la implementación de evaluaciones de impacto institucional (peso 10%).
 
 ## Modelo Gestión Estadística P2C-T {.center}
 
@@ -45,11 +60,8 @@ Avanzar en la implementación del Plan Estadístico Institucional de la Universi
 :::
 
 ::: {.column width="60%"}
-<h6 style="color:red;">
 
-Líneas Estratégicas del Plan
-
-</h6>
+###### Líneas Estratégicas del Plan
 
 -   Líneamientos conceptuales
 -   Producción estadística
@@ -58,11 +70,7 @@ Líneas Estratégicas del Plan
 
 <br>
 
-<h6 style="color:red;">
-
-Duración del Plan
-
-</h6>
+###### Duración del Plan
 
 <em>Se desarrollará en 3 planes rectorales (9 años). <u>A la fecha, se ha avanzado en un 60 %.</u></em>
 :::
@@ -74,54 +82,130 @@ Duración del Plan
 
 ## Documentos Conceptuales {.smaller}
 
-<h6 style="color:red;">
-
-Producto 1.
-
-</h6>
-
-Actualización de los lineamientos conceptuales de la Universidad Nacional de Colombia para la gestión y disposición de estadísticas oficiales.
+<h6 style="color:rgb(255, 86, 44);">
+Producto 1. Lineamientos conceptuales para la producción de estadísticas e indicadores oficiales en la Universidad Nacional de Colombia.
+</h6><br>
 
 ::: columns
 ::: {.column width="50%"}
-[![](Imagenes/EstadisticasInd.jpg){height="480"}](https://estadisticaun.github.io/L_Conceptual1/)
+[![](Imagenes/EstadisticasInd.jpg){height="500"}](https://estadisticaun.github.io/L_Conceptual1/)
 :::
 
 ::: {.column width="50%"}
-![](Imagenes/QRPresentacion.png){height="300" fig-align="center"}
+
+<br><br><br>
+![](Imagenes/QRLibro.png){height="300" fig-align="center"}
 :::
 :::
 
 ## Producción Estadística (P) {.center}
 
 ![](Imagenes/Produccion.png){fig-align="center"}
+<br>
 
-## Página de Estadísticas de la UNAL {.smaller}
+## Producción Estadística {.smaller}
+
+<h6 style="color:rgb(255, 86, 44);">
+Producto 2. Aumento del alcance a nivel institucional de las estadísticas oficiales. Diposición y acceso, a través de dashboards y boletines estadísticos, a cifras oficiales a nivel nacional, sede, facultad y programa.
+</h6><br>
+
+### Página de Estadísticas Oficiales
+
+::: columns
+::: {.column width="70%"}
+[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/)
+:::
+
+::: {.column width="30%"}
+<br>
+<br>
+
+###### Mecanismos de difusión
+
+- Dashboards
+- Boletines web estadísticos
+
+:::
+:::
+
+<br>
+
+## Mecanismos de Difusión {.smaller}
+
+<h3 style="color:#2c7fb8;">Dashboards</h3>
 
 ::: columns
 ::: {.column width="70%"}
 [![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/)
 
-<h6 style="color:red;">
 
-Estadísticas Oficiales Disponibles
+###### Dashboards disponibles
 
-</h6>
-
-Aspirantes, admitidos, matriculados, graduados, docentes, personal administrativo, así como enlaces a información oficial de investigación, extensión e innovación e información financiera.
+Aspirantes, admitidos, matriculados,
+matriculados primera vez, 
+graduados, docentes y personal administrativo.
 :::
 
 ::: {.column width="30%"}
-<br>
 
-<h6 style="color:red;">
+###### Nivel de desagregación
 
-Mecanismos de difusión
+-   Información disponible a nivel nacional, sedes, facultades y programas académicos (desgregaciones geográficas institucionales).
 
+- Información disponible, por nivel de análisis, desde múltiples perspectivas: desagregaciones temporales, temáticas y geográficas territoriales.
+
+:::
+:::
+
+## Mecanismos de Difusión {.smaller}
+
+<h3 style="color:#2c7fb8;">Boletines Web Estadísticos</h3>
+
+::: columns
+::: {.column width="70%"}
+[![](Imagenes/Boletines.png){height="500"}](https://estadisticas.unal.edu.co/home/)
+:::
+
+::: {.column width="30%"}
+
+#### Boletines Disponibles
+
+Construcción y/o actualización de 7 boletínes estadísticos.
+
+- [Revista de Estadísticas e Indicadores de la UNAL](https://estadisticaun.github.io/BoletinNacional/)
+- [Boletín Sede Palmira](https://estadisticaun.github.io/BoletinPalmira/)
+- [Boletín Sede La Paz](https://estadisticaun.github.io/BoletinLaPaz/)
+- [Boletín Sede Caribe](https://estadisticaun.github.io/BoletinCaribe/)
+- [Boletín Sede Amazonía](https://estadisticaun.github.io/BoletinAmazonia/)
+- [Boletín Sede Orinoquía](https://estadisticaun.github.io/BoletinOrinoquia/)
+- [Boletín Sede Tumaco](https://estadisticaun.github.io/BoletinTumaco/)
+
+:::
+:::
+
+## Datos Abiertos de la UNAL 
+
+<h6 style="color:rgb(255, 86, 44);">
+Producto 3. Fase I publicación datos abiertos de la UNAL en el portal de datos abiertos del estado colombiano.
 </h6>
 
--   Dashboards.
--   Boletines web estadísticos.
+<br>
+
+::: columns
+::: {.column width="50%"}
+[![](Imagenes/DatosA.png){height="400"}](https://estadisticas.unal.edu.co/home/)
+:::
+
+::: {.column width="50%"}
+
+#### Conjuntos Publicados
+Se publicaron 5 conjuntos de datos de la UNAl.
+
+- [Aspirantes y Admitidos](https://www.datos.gov.co/Educaci-n/Microdatos-Aspirantes-y-Admitidos-en-la-UNAL/mqpd-2jhs/about_data)
+- [Matriculados](https://www.datos.gov.co/Educaci-n/Estudiantes-matriculados-UNAL/5pqr-ifsd/about_data)
+- [Graduados](https://www.datos.gov.co/Educaci-n/Estudiantes-Graduados-UNAL/3j5e-x7c4/about_data)
+- [Docentes de Carrera](https://www.datos.gov.co/Educaci-n/Microdatos-Docentes-de-Carrera-UNAL/uvhe-aufw/about_data)
+- [Personal Administrativo](https://www.datos.gov.co/Educaci-n/Microdatos-Personal-Administrativo-UNAL/6rvy-hipa/about_data)
 :::
 :::
 
@@ -129,28 +213,56 @@ Mecanismos de difusión
 
 ![](Imagenes/Tecnologia.png){fig-align="center"}
 
+## Arquitectura Tecnológica Actual {.center}
+
+Las herramientas tecnológicas empleadas actualmente en la gestión estadística nacional de la UNAL se presentan en el siguiente esquema (arquitectura).
+
+![](Imagenes/Tecnología.png){fig-align="center"}
+
+## Paquetes de R
+
+
+<h5 style="color:rgb(255, 86, 44);">
+Producto 4. Construcción y disposición de dos paquetes de R: uno orientado a la disposición de microdatos y el otro a la visualización de estadísticas oficiales. </h5><br>
+
+### El Paquetes de R UnalData
+
+::: columns
+::: {.column width="30%"}
+[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData)
+
+<h6 style="color:rgb(255, 86, 44);">N = 3.605.510</h6>
+:::
+
+::: {.column width="70%"}
+
+El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData) almacena, en un entorno privado, desde el año 2008, el total de microdatos que sirven de fuente para la consolidación de las estadísticas oficiales y la publicación de microdatos en el portal de datos abiertos del Estado.
+
+:::
+:::
+
 ## El Paquete de R UnalR
 
 ::: columns
-::: {.column width="40%"}
+::: {.column width="33%"}
 [![](Imagenes/UnalR.png){fig-align="left" height="300"}](https://estadisticaun.github.io/UnalR/index.html)
 
 El paquete [UnalR](https://estadisticaun.github.io/UnalR/index.html) proporciona métodos y herramientas para la visualización de estadísticas.
 :::
 
-::: {.column width="60%"}
-<br>
+::: {.column width="67%"}
+<br> 
 
-<h6 style="color:red;">
+##### Contenido del Paquete
 
-Producto 4
+Conjunto de funciones orientadas a la visualización <u>estática e interactiva</u> haciendo uso de funciones únicas derivadas de los paquetes highcharter, plotly, leaflet, DT, gt y ggplot2, principalmente.
+<br><br>
 
-</h6>
+##### Enlace Web:
 
-<br> Conjunto de funciones orientadas a la visualización <u>estática e interactiva</u> haciendo uso de funciones únicas derivadas de los paquetes highcharter, plotly, leaflet, DT, gt y ggplot2, principalmente.
+[https://estadisticaun.github.io/UnalR/index.html](https://estadisticaun.github.io/UnalR/index.html)
 :::
 :::
-
 
 ## Cultura Estadística (C) {.center}
 
@@ -158,11 +270,52 @@ Producto 4
 
 ## Acciones para fomentar la cultura estadística {.smaller}
 
+<h6 style="color:rgb(255, 86, 44);">
+Producto 5. Implementar acciones orientadas al fortalecimiento de la cultura estadística institucional.
+</h6><br>
+
 -   Socialización al interior de las entidades
 -   Implementación de campañas en redes sociales
 -   Construcción y disposición de videos
 -   Disposición de Souvenirs
 -   Participación en eventos nacionales e internacionales
+
+## Equipo de Trabajo {.smaller .center}
+<br>
+
+::: columns
+::: {.column width="50%"}
+#### Contratistas
+
+- [David Santiago Hernandez Ardila]() - Linguista. MSc.
+- [Juan Camilo Neiva Aranguren]() - Ingeniero de Sistemas.
+- [David Felipe Rubio Méndez]()  --   Estadístico.
+- [Jeisson Mauricio Alarcon Becerra]() - Estadístico.
+
+#### Estudiantes Auxiliares
+
+- [Maria Jimena López M]() - Estadística.
+- [Ana Sofia Bello Dueñas]() - Estadística.
+:::
+
+::: {.column width="50%"}
+#### Funcionarios
+
+- [Maria Claudia Galindo Gonzalez]() (coordinadora funcional)
+- [Liliana Andrea Gaitan Mendoza]()
+- [Cindy Lorena Silva Montenegro]()
+
+#### Director del Proyecto 613-C2
+
+- [Alberto Rodríguez R](https://albertor.netlify.app/)
+
+#### Enlaces en Sedes UNAL
+
+Enlaces en las Sedes Andinas y de Presencia Nacional.
+
+:::
+:::
+
 
 ## Información de Contacto {.smaller .center}
 
@@ -170,7 +323,7 @@ Producto 4
 
 [Oficina Nacional de Estadística - UNAL](https://estadisticas.unal.edu.co/home/)
 
-[Dirección Nacional de Planeación y Estadística](https://planeacion.unal.edu.co/home/)
+[Dirección Nacional de Planeación y Estadística](https://planeacion.unal.edu.co/)
 
 Mail: estadistica_nal\@unal.edu.co
 
