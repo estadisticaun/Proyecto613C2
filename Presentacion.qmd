@@ -5,14 +5,8 @@ author: "Oficina Nacional de Estadística <br>Dirección Nacional de Planeación
 format:
   onyxia-revealjs:
     output-file: index.html
+    chalkboard: true
     slide-number: true
-# format: 
-#   revealjs:
-#     code-fold: true
-#     logo: "Imagenes/logoUNAL.jpg"
-#     theme: serif
-#     chalkboard: true
-#     slide-number: true
 ---
 
 ## QR de la presentación
@@ -287,23 +281,23 @@ Producto 5. Implementar acciones orientadas al fortalecimiento de la cultura est
 ::: {.column width="50%"}
 #### Contratistas
 
-- [David Santiago Hernandez Ardila]() - Linguista. MSc.
-- [Juan Camilo Neiva Aranguren]() - Ingeniero de Sistemas.
-- [David Felipe Rubio Méndez]()  --   Estadístico.
-- [Jeisson Mauricio Alarcon Becerra]() - Estadístico.
+- [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/) - Linguista. MSc.
+- [Juan Camilo Neiva Aranguren](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Ingeniero de Sistemas.
+- [David Felipe Rubio Méndez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)  --   Estadístico.
+- [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon) - Estadístico.
 
 #### Estudiantes Auxiliares
 
-- [Maria Jimena López M]() - Estadística.
-- [Ana Sofia Bello Dueñas]() - Estadística.
+- [Maria Jimena López M](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Estadística.
+- [Ana Sofia Bello Dueñas](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Estadística.
 :::
 
 ::: {.column width="50%"}
 #### Funcionarios
 
-- [Maria Claudia Galindo Gonzalez]() (coordinadora funcional)
-- [Liliana Andrea Gaitan Mendoza]()
-- [Cindy Lorena Silva Montenegro]()
+- [Maria Claudia Galindo Gonzalez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) (coordinadora funcional)
+- [Liliana Andrea Gaitan Mendoza](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)
+- [Cindy Lorena Silva Montenegro](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)
 
 #### Director del Proyecto 613-C2
 
