@@ -266,13 +266,16 @@ Conjunto de funciones orientadas a la visualización <u>estática e interactiva<
 
 <h6 style="color:rgb(255, 86, 44);">
 Producto 5. Implementar acciones orientadas al fortalecimiento de la cultura estadística institucional.
-</h6><br>
+</h6>
 
--   Socialización al interior de las entidades
--   Implementación de campañas en redes sociales
--   Construcción y disposición de videos
--   Disposición de Souvenirs
--   Participación en eventos nacionales e internacionales
+Se han adelantado varias acciones orientadas al fortalecimiento de la cultura estadística institucional, entre las que se destacan:
+
+-   Inicio de un levantamiento de la historia estadística de la UNAL.
+-   Firma y acompañamiento de un convenio marco entre el DANE y la UNAL.
+- Presentación ponencias en el Encuentro de Gestión Universitaria - SUE y el XIV Coloquio Nacional de Estadística - Escuela de Estadística Sede Medellín.
+- Participación en conversatorio lanzamiento del Plan Estadístico Nacional 2023-2027 (DANE).
+- Apoyo al área financiera de la Universidad en la construcción de la Metodología de Costos y la actualización de la Memoria Financiera.
+- Apoyo financiero para el fortalecimiento de la actividad estadística en las sedes Bogotá y Manizales (195 millones).
 
 ## Equipo de Trabajo {.smaller .center}
 <br>
@@ -328,3 +331,15 @@ Ubicación: Carrera 45 \# 26-58, oficina 506
 Edif. Uriel Gutiérrez
 
 Bogotá D.C., Colombia
+
+## Opciones Navegación Presentación
+
+- Última diapositiva, dar clic en Shift + cursor derecho.
+- Primera diapositiva, dar clic en Shift + cursor izquierdo.
+- Activar y desactivar lienzo de notas, utilice la tecla C.
+- Activar y desactivar pizarra, utilice la tecla B.
+- Borrar notas de una presentación, utilice la tecla DEL o Supr.
+- Colores hacia adelante del pincel de notas, utilice la tecla X.
+- Colores hacia atrás del pincel de notas, utilice la tecla Y.
+
+Más información en la sección de [Opciones de Navegación](https://quarto.org/docs/presentations/revealjs/presenting.html#navigation-options) del manual de Quarto.
