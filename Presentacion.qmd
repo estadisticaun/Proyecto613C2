@@ -33,8 +33,8 @@ Avanzar en la implementación del Plan Estadístico Institucional de la Universi
 
 #### Indicadores
 
-- Porcentaje de Avance en la Implementación del Plan Estadístico Institucional (peso 90%).
-- Porcentaje de avance en la construcción de los lineamientos metodológicos que orienten la implementación de evaluaciones de impacto institucional (peso 10%).
+- Porcentaje de Avance en la Implementación del Plan Estadístico Institucional <u>(peso 90%)</u>.
+- Porcentaje de avance en la construcción de los lineamientos metodológicos que orienten la implementación de evaluaciones de impacto institucional <u>(peso 10%)</u>.
 
 ## Modelo Gestión Estadística P2C-T {.center}
 
