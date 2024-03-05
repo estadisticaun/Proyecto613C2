@@ -209,9 +209,8 @@ Se publicaron 5 conjuntos de datos de la UNAl.
 
 ## Arquitectura Tecnológica Actual {.center}
 
-Las herramientas tecnológicas empleadas actualmente en la gestión estadística nacional de la UNAL se presentan en el siguiente esquema (arquitectura).
 
-![](Imagenes/Gráfica 12.png){fig-align="center" height="450"}
+![](Imagenes/Gráfica 12.png){fig-align="center" height="580"}
 
 
 ## Paquetes de R
