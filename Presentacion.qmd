@@ -51,7 +51,7 @@ Avanzar en la implementación del Plan Estadístico Institucional de la Universi
 
 ::: columns
 ::: {.column width="40%"}
-[![](Imagenes/PlanE.jpg)](https://estadisticaun.github.io/PlanE/)f
+[![](Imagenes/PlanE.jpg)](https://estadisticaun.github.io/PlanE/){target="_blank"}
 :::
 
 ::: {.column width="60%"}
@@ -83,7 +83,7 @@ Producto 1. Lineamientos conceptuales para la producción de estadísticas e ind
 
 ::: columns
 ::: {.column width="50%"}
-[![](Imagenes/EstadisticasInd.jpg){height="500"}](https://estadisticaun.github.io/L_Conceptual1/)
+[![](Imagenes/EstadisticasInd.jpg){height="500"}](https://estadisticaun.github.io/L_Conceptual1/){target="_blank"}
 :::
 
 ::: {.column width="50%"}
@@ -108,7 +108,7 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/)
+[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
 :::
 
 ::: {.column width="30%"}
@@ -131,7 +131,7 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/)
+[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
 
 
 ###### Dashboards disponibles
@@ -158,7 +158,7 @@ graduados, docentes y personal administrativo.
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/Boletines.png){height="500"}](https://estadisticas.unal.edu.co/home/)
+[![](Imagenes/Boletines.png){height="500"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
 :::
 
 ::: {.column width="30%"}
@@ -167,13 +167,13 @@ graduados, docentes y personal administrativo.
 
 Construcción y/o actualización de 7 boletínes estadísticos.
 
-- [Revista de Estadísticas e Indicadores de la UNAL](https://estadisticaun.github.io/BoletinNacional/)
-- [Boletín Sede Palmira](https://estadisticaun.github.io/BoletinPalmira/)
-- [Boletín Sede La Paz](https://estadisticaun.github.io/BoletinLaPaz/)
-- [Boletín Sede Caribe](https://estadisticaun.github.io/BoletinCaribe/)
-- [Boletín Sede Amazonía](https://estadisticaun.github.io/BoletinAmazonia/)
-- [Boletín Sede Orinoquía](https://estadisticaun.github.io/BoletinOrinoquia/)
-- [Boletín Sede Tumaco](https://estadisticaun.github.io/BoletinTumaco/)
+- [Revista de Estadísticas e Indicadores de la UNAL](https://estadisticaun.github.io/BoletinNacional/){target="_blank"}
+- [Boletín Sede Palmira](https://estadisticaun.github.io/BoletinPalmira/){target="_blank"}
+- [Boletín Sede La Paz](https://estadisticaun.github.io/BoletinLaPaz/){target="_blank"}
+- [Boletín Sede Caribe](https://estadisticaun.github.io/BoletinCaribe/){target="_blank"}
+- [Boletín Sede Amazonía](https://estadisticaun.github.io/BoletinAmazonia/){target="_blank"}
+- [Boletín Sede Orinoquía](https://estadisticaun.github.io/BoletinOrinoquia/){target="_blank"}
+- [Boletín Sede Tumaco](https://estadisticaun.github.io/BoletinTumaco/){target="_blank"}
 
 :::
 :::
@@ -188,7 +188,7 @@ Producto 3. Fase I publicación datos abiertos de la UNAL en el portal de datos 
 
 ::: columns
 ::: {.column width="50%"}
-[![](Imagenes/DatosA.png){height="400"}](https://estadisticas.unal.edu.co/home/)
+[![](Imagenes/DatosA.png){height="400"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
 :::
 
 ::: {.column width="50%"}
@@ -196,11 +196,11 @@ Producto 3. Fase I publicación datos abiertos de la UNAL en el portal de datos 
 #### Conjuntos Publicados
 Se publicaron 5 conjuntos de datos de la UNAl.
 
-- [Aspirantes y Admitidos](https://www.datos.gov.co/Educaci-n/Microdatos-Aspirantes-y-Admitidos-en-la-UNAL/mqpd-2jhs/about_data){preview-link="false"}
-- [Matriculados](https://www.datos.gov.co/Educaci-n/Estudiantes-matriculados-UNAL/5pqr-ifsd/about_data){preview-link="false"}
-- [Graduados](https://www.datos.gov.co/Educaci-n/Estudiantes-Graduados-UNAL/3j5e-x7c4/about_data){preview-link="false"}
-- [Docentes de Carrera](https://www.datos.gov.co/Educaci-n/Microdatos-Docentes-de-Carrera-UNAL/uvhe-aufw/about_data){preview-link="false"}
-- [Personal Administrativo](https://www.datos.gov.co/Educaci-n/Microdatos-Personal-Administrativo-UNAL/6rvy-hipa/about_data){preview-link="false"}
+- [Aspirantes y Admitidos](https://www.datos.gov.co/Educaci-n/Microdatos-Aspirantes-y-Admitidos-en-la-UNAL/mqpd-2jhs/about_data){preview-link="false" target="_blank"}
+- [Matriculados](https://www.datos.gov.co/Educaci-n/Estudiantes-matriculados-UNAL/5pqr-ifsd/about_data){preview-link="false" target="_blank"}
+- [Graduados](https://www.datos.gov.co/Educaci-n/Estudiantes-Graduados-UNAL/3j5e-x7c4/about_data){preview-link="false" target="_blank"}
+- [Docentes de Carrera](https://www.datos.gov.co/Educaci-n/Microdatos-Docentes-de-Carrera-UNAL/uvhe-aufw/about_data){preview-link="false" target="_blank"}
+- [Personal Administrativo](https://www.datos.gov.co/Educaci-n/Microdatos-Personal-Administrativo-UNAL/6rvy-hipa/about_data){preview-link="false" target="_blank"}
 :::
 :::
 
@@ -224,14 +224,14 @@ Producto 4. Construcción y disposición de dos paquetes de R: uno orientado a l
 
 ::: columns
 ::: {.column width="30%"}
-[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData){preview-link="false"}
+[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData){preview-link="false" {target="_blank"}
 
 <h6 style="color:rgb(255, 86, 44);">N = 3.605.510</h6>
 :::
 
 ::: {.column width="70%"}
 
-El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData){preview-link="false"} almacena, en un entorno privado, desde el año 2008, el total de microdatos que sirven de fuente para la consolidación de las estadísticas oficiales y la publicación de microdatos en el portal de datos abiertos del Estado.
+El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData){preview-link="false" target="_blank"} almacena, en un entorno privado, desde el año 2008, el total de microdatos que sirven de fuente para la consolidación de las estadísticas oficiales y la publicación de microdatos en el portal de datos abiertos del Estado.
 
 :::
 :::
@@ -240,9 +240,9 @@ El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData){previ
 
 ::: columns
 ::: {.column width="33%"}
-[![](Imagenes/UnalR.png){fig-align="left" height="300"}](https://estadisticaun.github.io/UnalR/index.html)
+[![](Imagenes/UnalR.png){fig-align="left" height="300"}](https://estadisticaun.github.io/UnalR/index.html){target="_blank"}
 
-El paquete [UnalR](https://estadisticaun.github.io/UnalR/index.html) proporciona métodos y herramientas para la visualización de estadísticas.
+El paquete [UnalR](https://estadisticaun.github.io/UnalR/index.html){target="_blank"} proporciona métodos y herramientas para la visualización de estadísticas.
 :::
 
 ::: {.column width="67%"}
@@ -255,7 +255,7 @@ Conjunto de funciones orientadas a la visualización <u>estática e interactiva<
 
 ##### Enlace Web:
 
-[https://estadisticaun.github.io/UnalR/index.html](https://estadisticaun.github.io/UnalR/index.html)
+[https://estadisticaun.github.io/UnalR/index.html](https://estadisticaun.github.io/UnalR/index.html){target="_blank"}
 :::
 :::
 
@@ -285,10 +285,10 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 ::: {.column width="50%"}
 #### Contratistas
 
-- [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/){preview-link="false"} - Linguista. MSc.
+- [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/){preview-link="false" target="_blank"} - Linguista. MSc.
 - [Juan Camilo Neiva Aranguren](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Ingeniero de Sistemas.
 - [David Felipe Rubio Méndez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)  --   Estadístico.
-- [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon) - Estadístico.
+- [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon){target="_blank"} - Estadístico.
 
 #### Estudiantes Auxiliares
 
@@ -305,7 +305,7 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 
 #### Director del Proyecto 613-C2
 
-- [Alberto Rodríguez R](https://albertor.netlify.app/)
+- [Alberto Rodríguez R](https://albertor.netlify.app/){target="_blank"}
 
 #### Enlaces en Sedes UNAL
 
@@ -343,4 +343,4 @@ Bogotá D.C., Colombia
 - Colores hacia adelante del pincel de notas, utilice la tecla X.
 - Colores hacia atrás del pincel de notas, utilice la tecla Y.
 
-Más información en la sección de [Opciones de Navegación](https://quarto.org/docs/presentations/revealjs/presenting.html#navigation-options) del manual de Quarto.
+Más información en la sección de [Opciones de Navegación](https://quarto.org/docs/presentations/revealjs/presenting.html#navigation-options){target="_blank"} del manual de Quarto.
