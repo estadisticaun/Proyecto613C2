@@ -7,6 +7,7 @@ format:
     output-file: index.html
     chalkboard: true
     slide-number: true
+    preview-links: auto
 ---
 
 ## QR de la presentación
@@ -50,7 +51,7 @@ Avanzar en la implementación del Plan Estadístico Institucional de la Universi
 
 ::: columns
 ::: {.column width="40%"}
-[![](Imagenes/PlanE.jpg)](https://estadisticaun.github.io/PlanE/)
+[![](Imagenes/PlanE.jpg)](https://estadisticaun.github.io/PlanE/)f
 :::
 
 ::: {.column width="60%"}
@@ -195,11 +196,11 @@ Producto 3. Fase I publicación datos abiertos de la UNAL en el portal de datos 
 #### Conjuntos Publicados
 Se publicaron 5 conjuntos de datos de la UNAl.
 
-- [Aspirantes y Admitidos](https://www.datos.gov.co/Educaci-n/Microdatos-Aspirantes-y-Admitidos-en-la-UNAL/mqpd-2jhs/about_data)
-- [Matriculados](https://www.datos.gov.co/Educaci-n/Estudiantes-matriculados-UNAL/5pqr-ifsd/about_data)
-- [Graduados](https://www.datos.gov.co/Educaci-n/Estudiantes-Graduados-UNAL/3j5e-x7c4/about_data)
-- [Docentes de Carrera](https://www.datos.gov.co/Educaci-n/Microdatos-Docentes-de-Carrera-UNAL/uvhe-aufw/about_data)
-- [Personal Administrativo](https://www.datos.gov.co/Educaci-n/Microdatos-Personal-Administrativo-UNAL/6rvy-hipa/about_data)
+- [Aspirantes y Admitidos](https://www.datos.gov.co/Educaci-n/Microdatos-Aspirantes-y-Admitidos-en-la-UNAL/mqpd-2jhs/about_data){preview-link="false"}
+- [Matriculados](https://www.datos.gov.co/Educaci-n/Estudiantes-matriculados-UNAL/5pqr-ifsd/about_data){preview-link="false"}
+- [Graduados](https://www.datos.gov.co/Educaci-n/Estudiantes-Graduados-UNAL/3j5e-x7c4/about_data){preview-link="false"}
+- [Docentes de Carrera](https://www.datos.gov.co/Educaci-n/Microdatos-Docentes-de-Carrera-UNAL/uvhe-aufw/about_data){preview-link="false"}
+- [Personal Administrativo](https://www.datos.gov.co/Educaci-n/Microdatos-Personal-Administrativo-UNAL/6rvy-hipa/about_data){preview-link="false"}
 :::
 :::
 
@@ -223,14 +224,14 @@ Producto 4. Construcción y disposición de dos paquetes de R: uno orientado a l
 
 ::: columns
 ::: {.column width="30%"}
-[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData)
+[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData){preview-link="false"}
 
 <h6 style="color:rgb(255, 86, 44);">N = 3.605.510</h6>
 :::
 
 ::: {.column width="70%"}
 
-El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData) almacena, en un entorno privado, desde el año 2008, el total de microdatos que sirven de fuente para la consolidación de las estadísticas oficiales y la publicación de microdatos en el portal de datos abiertos del Estado.
+El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData){preview-link="false"} almacena, en un entorno privado, desde el año 2008, el total de microdatos que sirven de fuente para la consolidación de las estadísticas oficiales y la publicación de microdatos en el portal de datos abiertos del Estado.
 
 :::
 :::
@@ -284,7 +285,7 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 ::: {.column width="50%"}
 #### Contratistas
 
-- [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/) - Linguista. MSc.
+- [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/){preview-link="false"} - Linguista. MSc.
 - [Juan Camilo Neiva Aranguren](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Ingeniero de Sistemas.
 - [David Felipe Rubio Méndez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)  --   Estadístico.
 - [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon) - Estadístico.
