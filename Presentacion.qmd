@@ -301,7 +301,7 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 -   Firma y acompañamiento de un convenio marco entre el DANE y la UNAL.
 - Presentación ponencias en el Encuentro de Gestión Universitaria - SUE y el XIV Coloquio Nacional de Estadística - Escuela de Estadística Sede Medellín.
 - Participación en conversatorio lanzamiento del Plan Estadístico Nacional 2023-2027 (DANE).
-- Apoyo al área financiera de la Universidad en la construcción de la Metodología de Costos y la actualización de la Memoria Financiera.
+- Apoyo al área financiera de la Universidad en la construcción de la [Metodología de Costos](https://estadisticaun.github.io/MCostos/){target="_blank"} y la actualización de la [Memoria Financiera](https://estadisticaun.github.io/Memoria/){target="_blank"}.
 - Apoyo financiero para el fortalecimiento de la actividad estadística en las sedes Bogotá y Manizales (195 millones).
 
 ## Equipo de Trabajo {.smaller .center}
