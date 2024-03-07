@@ -221,6 +221,12 @@ Se publicaron 5 conjuntos de datos de la UNAl.
 
 ![](Imagenes/Tecnologia.png){fig-align="center"}
 
+## Arquitectura Tecnológica Ideal {.center}
+
+
+![](Imagenes/Gráfica 10.png){fig-align="center" height="580"}
+
+
 ## Arquitectura Tecnológica Actual {.center}
 
 
@@ -271,6 +277,13 @@ Conjunto de funciones orientadas a la visualización <u>estática e interactiva<
 [https://estadisticaun.github.io/UnalR/index.html](https://estadisticaun.github.io/UnalR/index.html){target="_blank"}
 :::
 :::
+
+## R en el Sistema Estadístico de la UNAL - Un Lenguaje Escalable{.center}
+
+
+![](Imagenes/Rprotagonista.png){fig-align="center" height="560"}
+
+
 
 ## Cultura Estadística (C) {.center}
 
