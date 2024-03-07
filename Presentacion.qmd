@@ -301,7 +301,7 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 - [David Santiago Hernandez Ardila](https://www.linkedin.com/in/dantiago/){preview-link="false" target="_blank"} - Linguista. MSc.
 - [Juan Camilo Neiva Aranguren](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) - Ingeniero de Sistemas.
 - [David Felipe Rubio Méndez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)  --   Estadístico.
-- [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon){target="_blank"} - Estadístico.
+- [Jeisson Mauricio Alarcon Becerra](https://github.com/JeisonAlarcon){preview-link="false" target="_blank"} - Estadístico.
 
 #### Estudiantes Auxiliares
 
