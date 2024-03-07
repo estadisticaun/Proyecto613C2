@@ -323,13 +323,14 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 :::
 
 ::: {.column width="50%"}
-#### Funcionarios
+#### Funcionari@s
 
 - [Maria Claudia Galindo Gonzalez](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo) (coordinadora funcional)
 - [Liliana Andrea Gaitan Mendoza](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)
 - [Cindy Lorena Silva Montenegro](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)
+- [Mónica Andrea Carrillo Rojas](https://estadisticaun.github.io/Proyecto613C2/#/equipo-de-trabajo)
 
-#### Director del Proyecto 613-C2
+#### Director Proyecto Componente 613-C2
 
 - [Alberto Rodríguez R](https://albertor.netlify.app/){target="_blank"}
 
