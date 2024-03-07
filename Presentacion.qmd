@@ -68,6 +68,14 @@ Avanzar en la implementación del Plan Estadístico Institucional de la Universi
 ###### Duración del Plan
 
 <em>Se desarrollará en 3 planes rectorales (9 años). <u>A la fecha, se ha avanzado en un 60 %.</u></em>
+
+<br>
+
+###### Enlace Web:
+
+[https://estadisticaun.github.io/PlanE/](https://estadisticaun.github.io/PlanE/){target="_blank"}
+<br>
+
 :::
 :::
 
@@ -88,8 +96,13 @@ Producto 1. Lineamientos conceptuales para la producción de estadísticas e ind
 
 ::: {.column width="50%"}
 
-<br><br><br>
+<br>
 ![](Imagenes/QRLibro.png){height="300" fig-align="center"}
+
+###### Enlace Web:
+
+[https://estadisticaun.github.io/L_Conceptual1/](https://estadisticaun.github.io/L_Conceptual1/){target="_blank"}
+<br>
 :::
 :::
 
@@ -224,7 +237,7 @@ Producto 4. Construcción y disposición de dos paquetes de R: uno orientado a l
 
 ::: columns
 ::: {.column width="30%"}
-[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData){preview-link="false" {target="_blank"}
+[![](Imagenes/UnalData.png){fig-align="left" height="200"}](https://github.com/estadisticaun/UnalData){preview-link="false" target="_blank"}
 
 <h6 style="color:rgb(255, 86, 44);">N = 3.605.510</h6>
 :::
@@ -240,7 +253,7 @@ El paquete de datos  [UnalData](https://github.com/estadisticaun/UnalData){previ
 
 ::: columns
 ::: {.column width="33%"}
-[![](Imagenes/UnalR.png){fig-align="left" height="300"}](https://estadisticaun.github.io/UnalR/index.html){target="_blank"}
+[![](Imagenes/UnalR.png)](https://estadisticaun.github.io/UnalR/index.html){fig-align="left" height="300" target="_blank"}
 
 El paquete [UnalR](https://estadisticaun.github.io/UnalR/index.html){target="_blank"} proporciona métodos y herramientas para la visualización de estadísticas.
 :::
