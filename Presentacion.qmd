@@ -121,7 +121,7 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
+[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/){target="_blank"}
 :::
 
 ::: {.column width="30%"}
@@ -144,7 +144,7 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
+[![](Imagenes/PaginaEsts.jpg){height="350"}](https://estadisticas.unal.edu.co/){target="_blank"}
 
 
 ###### Dashboards disponibles
@@ -171,7 +171,7 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ::: columns
 ::: {.column width="70%"}
-[![](Imagenes/Boletines.png){height="500"}](https://estadisticas.unal.edu.co/home/){target="_blank"}
+[![](Imagenes/Boletines.png){height="500"}](https://estadisticas.unal.edu.co/){target="_blank"}
 :::
 
 ::: {.column width="30%"}
@@ -300,8 +300,9 @@ Se han adelantado varias acciones orientadas al fortalecimiento de la cultura es
 -   Inicio de un levantamiento de la historia estadística de la UNAL.
 -   Firma y acompañamiento de un convenio marco entre el DANE y la UNAL.
 - Presentación ponencias en el Encuentro de Gestión Universitaria - SUE y el XIV Coloquio Nacional de Estadística - Escuela de Estadística Sede Medellín.
-- Participación en conversatorio lanzamiento del Plan Estadístico Nacional 2023-2027 (DANE).
+- Participación conversatorio entrega Plan Estadístico Nacional 2023-2027 (DANE).
 - Apoyo al área financiera de la Universidad en la construcción de la [Metodología de Costos](https://estadisticaun.github.io/MCostos/){target="_blank"} y la actualización de la [Memoria Financiera](https://estadisticaun.github.io/Memoria/){target="_blank"}.
+- Construcción y disposición de guías metodológicas. Por ejemplo, uso de [Quarto](https://estadisticaun.github.io/ManualQuarto/).
 - Apoyo financiero para el fortalecimiento de la actividad estadística en las sedes Bogotá y Manizales (195 millones).
 
 ## Equipo de Trabajo {.smaller .center}
