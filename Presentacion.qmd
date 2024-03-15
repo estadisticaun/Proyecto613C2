@@ -149,9 +149,9 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ###### Dashboards disponibles
 
-[Aspirantes](https://estadisticas.unal.edu.co/Aspiranres/){target="_blank"}, [admitidos](https://estadisticas.unal.edu.co/Admitidos/){target="_blank"}, [matriculados](https://estadisticas.unal.edu.co/Matriculados/){target="_blank"},
-[matriculados primera vez](https://estadisticas.unal.edu.co/MatriculadosPV/){target="_blank"}, 
-[graduados](https://estadisticas.unal.edu.co/Graduados/){target="_blank"}, [docentes](https://estadisticas.unal.edu.co/Docentes/){target="_blank"} y [personal administrativo](https://estadisticas.unal.edu.co/Administrativos/){target="_blank"}.
+[Aspirantes](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Aspirantes/){target="_blank"}, [admitidos](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Admitidos/){target="_blank"}, [matriculados](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Matriculados/){target="_blank"},
+[matriculados primera vez](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/MatriculadosPV/){target="_blank"}, 
+[graduados](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Graduados/){target="_blank"}, [docentes](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Docentes/){target="_blank"} y [personal administrativo](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Administrativos/){target="_blank"}.
 :::
 
 ::: {.column width="30%"}
