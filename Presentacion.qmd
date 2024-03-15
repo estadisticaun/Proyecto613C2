@@ -149,9 +149,9 @@ Producto 2. Aumento del alcance a nivel institucional de las estadísticas ofici
 
 ###### Dashboards disponibles
 
-[Aspirantes](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Aspirantes/){target="_blank"}, [admitidos](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Admitidos/){target="_blank"}, [matriculados](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Matriculados/){target="_blank"},
-[matriculados primera vez](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/MatriculadosPV/){target="_blank"}, 
-[graduados](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Graduados/){target="_blank"}, [docentes](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Docentes/){target="_blank"} y [personal administrativo](http://una-prod-estadistica-alb-1656652588.us-east-1.elb.amazonaws.com/Administrativos/){target="_blank"}.
+[Aspirantes](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Aspirantes/){target="_blank"}, [admitidos](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Admitidos/){target="_blank"}, [matriculados](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Matriculados/){target="_blank"},
+[matriculados primera vez](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/MatriculadosPV/){target="_blank"}, 
+[graduados](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Graduados/){target="_blank"}, [docentes](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Docentes/){target="_blank"} y [personal administrativo](http://una-prod-shiny-alb-1612398717.us-east-1.elb.amazonaws.com/Administrativos/){target="_blank"}.
 :::
 
 ::: {.column width="30%"}
